@@ -4,4 +4,4 @@ A simple program for calculating the speed of an object. The distance from point
 Useful in traffic forensics with additional improvements
 
 Demo:
-[Link]([https://r92ck9-5173.csb.app/](https://659e7474aaa50bcaa1eabe91--whimsical-begonia-229baf.netlify.app/)https://659e7474aaa50bcaa1eabe91--whimsical-begonia-229baf.netlify.app/)
+[Link](https://r92ck9-5173.csb.app/](https://659e7474aaa50bcaa1eabe91--whimsical-begonia-229baf.netlify.app/)https://659e7474aaa50bcaa1eabe91--whimsical-begonia-229baf.netlify.app/)
